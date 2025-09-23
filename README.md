@@ -1,6 +1,6 @@
 # 👋 Well! I’m Mark Tully  
 
-I’m a Computer Science MSc student at University College Dublin, specialising in **advanced machine learning, generative AI, text mining, and blockchain**. My work combines strong programming skills (Python, Java, SQL) with real-world systems development experience.  
+I’m a Computer Science MSc student at University College Dublin, specialising in **Advanced Machine Learning, Generative AI, Text Mining, and Blockchain/Decentralisation**. My work combines strong programming skills (Python, Java, SQL) with real-world systems development experience.  
 
 This GitHub showcases a selection of my academic, research, and personal projects — spanning **AI, full-stack development, systems engineering, and algorithm design**.  
 
@@ -26,9 +26,12 @@ A full-stack web platform that recommends optimal Manhattan locations for artist
 
 ---
 
-### 📝 Java Swing Text Editor  
-A lightweight text editor built with **Java Swing**, recreating core Notepad features.  
-- Demonstrates **UI programming, event-driven design, and Java desktop applications**  
+### 📊 Data_Analytics – Wildfire Damage Prediction  
+A machine learning project predicting **wildfire structure damage risk** using CAL FIRE data.  
+- Built a full **data analytics pipeline** with preparation, cleaning, and feature engineering  
+- Trained and evaluated models including **Logistic Regression** and **Random Forest**  
+- Random Forest consistently outperformed baselines, identifying key geographic & structural risk factors  
+- Demonstrates **data science workflow, predictive modeling, and evaluation techniques**  
 
 ---
 
