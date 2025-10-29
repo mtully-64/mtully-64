@@ -35,6 +35,19 @@ A machine learning project predicting **wildfire structure damage risk** using C
 
 ---
 
+# ⛓️ Blockchain Ecosystem Implementation
+
+A complete blockchain network built from scratch in Python, demonstrating decentralized consensus, mining, and transaction processing.
+
+- Implements **Proof-of-Work** with adjustable difficulty and SHA-256 hashing
+- Fully functional **peer-to-peer architecture** for distributed block propagation
+- Features **wallets, miners, and nodes** communicating over sockets
+- Includes **transaction validation, UTXO management, and block reward issuance**
+- Visualised blockchain structure with **Merkle trees** and block metadata
+- Designed for educational insight into **decentralisation, immutability, and security mechanisms**
+
+---
+
 ### ⭐ A* PathFinder Visualisation  
 An interactive pathfinding visualiser implementing the **A\* algorithm** in Python.  
 - Grid-based user interface built with **Pygame**  
