@@ -26,16 +26,7 @@ A full-stack web platform that recommends optimal Manhattan locations for artist
 
 ---
 
-### 📊 Data_Analytics – Wildfire Damage Prediction  
-A machine learning project predicting **wildfire structure damage risk** using CAL FIRE data.  
-- Built a full **data analytics pipeline** with preparation, cleaning, and feature engineering  
-- Trained and evaluated models including **Logistic Regression** and **Random Forest**  
-- Random Forest consistently outperformed baselines, identifying key geographic & structural risk factors  
-- Demonstrates **data science workflow, predictive modeling, and evaluation techniques**  
-
----
-
-# ⛓️ Blockchain Ecosystem Implementation
+### ⛓️ Blockchain Ecosystem Implementation
 
 A complete blockchain network built from scratch in Python, demonstrating decentralized consensus, mining, and transaction processing.
 
@@ -45,6 +36,15 @@ A complete blockchain network built from scratch in Python, demonstrating decent
 - Includes **transaction validation, UTXO management, and block reward issuance**
 - Visualised blockchain structure with **Merkle trees** and block metadata
 - Designed for educational insight into **decentralisation, immutability, and security mechanisms**
+- 
+---
+
+### 📊 Data_Analytics – Wildfire Damage Prediction  
+A machine learning project predicting **wildfire structure damage risk** using CAL FIRE data.  
+- Built a full **data analytics pipeline** with preparation, cleaning, and feature engineering  
+- Trained and evaluated models including **Logistic Regression** and **Random Forest**  
+- Random Forest consistently outperformed baselines, identifying key geographic & structural risk factors  
+- Demonstrates **data science workflow, predictive modeling, and evaluation techniques**  
 
 ---
 
