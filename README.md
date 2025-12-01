@@ -1,5 +1,7 @@
 # 👋 Well! I’m Mark Tully  
 
+### **My Portfolio** 👉 **www.marktully.ie**
+
 I’m a Computer Science MSc student at University College Dublin, specialising in **Advanced Machine Learning, Generative AI, Text Mining, and Blockchain/Decentralisation**. My work combines strong programming skills (Python, Java, SQL) with real-world systems development experience.  
 
 This GitHub showcases a selection of my academic, research, and personal projects — spanning **AI, full-stack development, systems engineering, and algorithm design**.  
