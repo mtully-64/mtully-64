@@ -82,6 +82,6 @@ A mobile app designed to help individuals with **Phenylketonuria (PKU)** track t
 
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/mark-tully/)  
-- [GitHub](https://github.com/mtully-64)  
+- [Email](mailto:marktully2012@gmail.com)
 
 ---
