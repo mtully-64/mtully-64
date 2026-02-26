@@ -1,6 +1,6 @@
 # 👋 Well! I’m Mark Tully  
 
-### **My Portfolio** 👉 **www.marktully.ie**
+### **My Website** 👉 **www.marktully.ie**
 
 I’m a Computer Science MSc student at University College Dublin, specialising in **Advanced Machine Learning, Generative AI, Text Mining, and Blockchain/Decentralisation**. My work combines strong programming skills (Python, Java, SQL) with real-world systems development experience.  
 
