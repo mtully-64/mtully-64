@@ -18,16 +18,6 @@ A fully-playable 2D game built entirely in **pure Java**, without external libra
 
 ---
 
-### 🗽 Manhattan Muse – Creative Space Recommender  
-A full-stack web platform that recommends optimal Manhattan locations for artists based on activity type, crowd data, and weather.  
-- **Spring Boot backend** with REST APIs, caching, and SQL database  
-- **Next.js frontend** with interactive **MapBox visualisation**  
-- **Python FastAPI ML service** using XGBoost for recommendation scoring  
-- Integrated **OpenWeather API** and **Google Maps API**  
-- Deployed with Docker, Kubernetes, and CI/CD pipelines  
-
----
-
 ### ⛓️ Blockchain Ecosystem Implementation
 
 A complete blockchain network built from scratch in Python, demonstrating decentralized consensus, mining, and transaction processing.
@@ -39,6 +29,17 @@ A complete blockchain network built from scratch in Python, demonstrating decent
 - Visualised blockchain structure with **Merkle trees** and block metadata
 - Designed for educational insight into **decentralisation, immutability, and security mechanisms**
 - 
+
+---
+
+### 🗽 Manhattan Muse – Creative Space Recommender  
+A full-stack web platform that recommends optimal Manhattan locations for artists based on activity type, crowd data, and weather.  
+- **Spring Boot backend** with REST APIs, caching, and SQL database  
+- **Next.js frontend** with interactive **MapBox visualisation**  
+- **Python FastAPI ML service** using XGBoost for recommendation scoring  
+- Integrated **OpenWeather API** and **Google Maps API**  
+- Deployed with Docker, Kubernetes, and CI/CD pipelines  
+
 ---
 
 ### 📊 Data_Analytics – Wildfire Damage Prediction  
