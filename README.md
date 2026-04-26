@@ -28,7 +28,6 @@ A complete blockchain network built from scratch in Python, demonstrating decent
 - Includes **transaction validation, UTXO management, and block reward issuance**
 - Visualised blockchain structure with **Merkle trees** and block metadata
 - Designed for educational insight into **decentralisation, immutability, and security mechanisms**
-- 
 
 ---
 
