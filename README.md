@@ -33,7 +33,7 @@ A complete blockchain network built from scratch in Python, demonstrating decent
 
 ### 🐦 Swarm Simulation — Multi-Agent Flocking System
  
-A real-time multi-agent simulation where 120 autonomous boids/prey exhibit emergent flocking behaviour through purely local steering rules, avoiding prey and eating food — with no agent having any global knowledge of the world.
+A real-time multi-agent simulation where 120 autonomous prey exhibit emergent flocking behaviour through purely local steering rules, avoiding predators and eating food — with no agent having any global knowledge of the world.
  
 - Built entirely in **Python** with a custom **2D vector math engine** and no physics libraries
 - **Reynolds boids algorithm** with five independent steering behaviours: separation, alignment, cohesion, flee, and food-seeking
