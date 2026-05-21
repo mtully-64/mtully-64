@@ -31,6 +31,19 @@ A complete blockchain network built from scratch in Python, demonstrating decent
 
 ---
 
+### 🐦 Swarm Simulation — Multi-Agent Flocking System
+ 
+A real-time multi-agent simulation where 120 autonomous boids/prey exhibit emergent flocking behaviour through purely local steering rules, avoiding prey and eating food — with no agent having any global knowledge of the world.
+ 
+- Built entirely in **Python** with a custom **2D vector math engine** and no physics libraries
+- **Reynolds boids algorithm** with five independent steering behaviours: separation, alignment, cohesion, flee, and food-seeking
+- **Spatial hash grid** for O(1) neighbour lookups — supports 120+ agents at 60 FPS single-threaded
+- **Predator/prey dynamics** with wander, chase, and kill mechanics
+- **Async WebSocket server** (asyncio + websockets) streaming live simulation state to the browser at ~60 FPS
+- **HTML5 Canvas frontend** with real-time behaviour weight sliders, click-to-spawn, and motion trails
+
+---
+
 ### 🗽 Manhattan Muse – Creative Space Recommender  
 A full-stack web platform that recommends optimal Manhattan locations for artists based on activity type, crowd data, and weather.  
 - **Spring Boot backend** with REST APIs, caching, and SQL database  
@@ -55,16 +68,6 @@ An interactive pathfinding visualiser implementing the **A\* algorithm** in Pyth
 - Grid-based user interface built with **Pygame**  
 - Real-time visualisation of node exploration and optimal pathfinding  
 - Clean, modular design with **OOP structure** and configurable heuristics  
-
----
-
-### 🚲 Dublin Bike Sharing System  
-A **full-stack system** to monitor and predict Dublin Bikes station availability.  
-- Live integration with **JCDecaux DublinBikes API** and **OpenWeather API**  
-- **Flask backend** with MySQL database (previously AWS RDS)  
-- **Interactive Google Maps frontend** with real-time occupancy & weather display  
-- **Machine learning model** predicting bike availability based on weather + historical usage  
-- **Testing suite** achieving ~92% coverage across API, database, and ML modules  
 
 ---
 
